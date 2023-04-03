@@ -2,7 +2,6 @@
 
 ### Hi, I'm França 👋🏼🇫🇷
 
-I will be the GOAT
 
 - 📊 looking for jobs and projects
 - 💪🏽 working on me and in my personal brand
