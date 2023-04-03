@@ -4,11 +4,11 @@
 
 I will be the GOAT
 
+- 📊 looking for jobs and projects
 - 💪🏽 working on me and in my personal brand
-- 📚 sharing knowledge
-- 🌎 looking for jobs and projects
-- 💬 YT Channel → Matheus França
-- 🔍 How to find me: Matheus França / @Franssa01
+- 🔢 mathematician and physicist
+- 💬 Front-End Developer
+- 🔍 How to find me: Matheus França / @Matheusf.fc
 
 <div align="center">
   <a href="https://github.com/franssa01">
